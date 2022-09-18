@@ -10,17 +10,17 @@ The VBA analysis produced results for Total Daily Volume and Yearly Return for e
 
 The analysis showed some slight difference between the factored and unfactored code.
 
-![2017 Unfactored Code](../Module%202/resources/time%20before%20refactor%202017.png)
+![2017 Unfactored Code](https://github.com/bmcnair2/stocks-analysis/blob/main/time%20before%20refactor%202017.png)
 
-![2018 Unfactored Code](../Module%202/resources/time%20before%20refactor%202018.png)
+![2018 Unfactored Code](https://github.com/bmcnair2/stocks-analysis/blob/main/time%20before%20refactor%202018.png)
 
-![2017 Factored Code](../Module%202/resources/time%20after%20refactor%202017.png)
+![2017 Factored Code](https://github.com/bmcnair2/stocks-analysis/blob/main/time%20after%20refactor%202017.png)
 
-![2018 Factored Code](../Module%202/resources/time%20after%20refactor%202018.png)
+![2018 Factored Code](https://github.com/bmcnair2/stocks-analysis/blob/main/time%20after%20refactor%202018.png)
 
 ![2017 Return Percentages](https://github.com/bmcnair2/stocks-analysis/blob/main/2017%20analysis.png)
 
-![2018 Return Percentages](../Module%202/resources/2018%20analysis.png)
+![2018 Return Percentages](https://github.com/bmcnair2/stocks-analysis/blob/main/2018%20analysis.png)
 
 As we can see, 2017 was a very good year for green stocks while 2018 was a down year. In 2017, only one stock ($TERP) was down on the year, while in 2018 only two stocks ($ENPH and $RUN) had positive performance. If Steve's parents were looking for a buying opportunity, 2018 was the year for buying the dips.
 
