@@ -6,7 +6,7 @@ This Excel workbook contains stock data from 2017 and 2018 on green stocks. The 
 
 ## Results
 
-The VBA analysis produced results for Total Daily Volume and Yearly Return for each year. The worksheet's formatting was edited to create better visualization and buttons were added for automatic analysis.
+The VBA analysis produced results for Total Daily Volume and Yearly Return for each year. The worksheets formatting was edited to create better visualization and buttons were added for automatic analysis.
 
 The analysis showed some slight difference between the factored and unfactored code.
 
@@ -18,7 +18,7 @@ The analysis showed some slight difference between the factored and unfactored c
 
 ![2018 Factored Code](../Module%202/resources/time%20after%20refactor%202018.png)
 
-![2017 Return Percentages](../Module%202/resources/2017%20analysis.png)
+![2017 Return Percentages](https://github.com/bmcnair2/stocks-analysis/blob/main/2017%20analysis.png)
 
 ![2018 Return Percentages](../Module%202/resources/2018%20analysis.png)
 
@@ -26,4 +26,5 @@ As we can see, 2017 was a very good year for green stocks while 2018 was a down 
 
 ## Summary
 
-The definition of refactoring is editing existing code to see if it will run faster. The editing is done in small steps in order for it to run correctly, and there are no major changes to the existing code. We see from this analysis that the original code actually ran faster than the refactored code. Some advantages to the refactored code are that it may be easier to read than the original version and it's considered safe since testing had to occur to make sure the code ran properly. Some disadvantages are since it took longer to run the refactored code it takes up more space on the computer and some parts of the code may be repeated.
+The definition of refactoring is editing existing code to see if it will run faster. The editing is done in small steps in order for it to run correctly, and there are no major changes to the existing code.
+We see from this analysis that the original code actually ran faster than the refactored code. Some advantages to the refactored code are that it may be easier to read than the original version and it's considered safe since testing had to occur to make sure the code ran properly. Some disadvantages are since it took longer to run the refactored code it takes up more space on the computer and some parts of the code may be repeated.
