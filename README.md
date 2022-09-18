@@ -9,11 +9,12 @@ This Excel workbook contains stock data from 2017 and 2018 on green stocks. The 
 The VBA analysis produced results for Total Daily Volume and Yearly Return for each year. The worksheets formatting was edited to create better visualization and buttons were added for automatic analysis.
 
 The analysis showed some slight difference between the factored and unfactored code.
-
+### Original Code
 ![2017 Unfactored Code](https://github.com/bmcnair2/stocks-analysis/blob/main/time%20before%20refactor%202017.png)
 
 ![2018 Unfactored Code](https://github.com/bmcnair2/stocks-analysis/blob/main/time%20before%20refactor%202018.png)
 
+### Factored Code
 ![2017 Factored Code](https://github.com/bmcnair2/stocks-analysis/blob/main/time%20after%20refactor%202017.png)
 
 ![2018 Factored Code](https://github.com/bmcnair2/stocks-analysis/blob/main/time%20after%20refactor%202018.png)
